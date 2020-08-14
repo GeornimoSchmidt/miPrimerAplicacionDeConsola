@@ -1,0 +1,7 @@
+C:\Users\geros\OneDrive\Desktop\Facultad\Primer año\Segundo semestre\Laboratorio 2\miPrimeraAplicacion\miPrimeraAplicacion\bin\Debug\miPrimeraAplicacion.exe.config
+C:\Users\geros\OneDrive\Desktop\Facultad\Primer año\Segundo semestre\Laboratorio 2\miPrimeraAplicacion\miPrimeraAplicacion\bin\Debug\miPrimeraAplicacion.exe
+C:\Users\geros\OneDrive\Desktop\Facultad\Primer año\Segundo semestre\Laboratorio 2\miPrimeraAplicacion\miPrimeraAplicacion\bin\Debug\miPrimeraAplicacion.pdb
+C:\Users\geros\OneDrive\Desktop\Facultad\Primer año\Segundo semestre\Laboratorio 2\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\miPrimeraAplicacion.csprojAssemblyReference.cache
+C:\Users\geros\OneDrive\Desktop\Facultad\Primer año\Segundo semestre\Laboratorio 2\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\miPrimeraAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\geros\OneDrive\Desktop\Facultad\Primer año\Segundo semestre\Laboratorio 2\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\miPrimeraAplicacion.exe
+C:\Users\geros\OneDrive\Desktop\Facultad\Primer año\Segundo semestre\Laboratorio 2\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\miPrimeraAplicacion.pdb
